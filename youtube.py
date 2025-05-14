@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters import CommandStart
 from yt_dlp import YoutubeDL
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+BOT_TOKEN = "7190221840:AAH2b174yipR8pwKzIw22p-PREDIsb5FQ-E"
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
